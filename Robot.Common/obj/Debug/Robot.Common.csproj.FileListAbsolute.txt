@@ -1,0 +1,5 @@
+E:\Pavlik\Politech\KPZ\RobotChallenge\Robot.Common\bin\Debug\Robot.Common.dll
+E:\Pavlik\Politech\KPZ\RobotChallenge\Robot.Common\bin\Debug\Robot.Common.pdb
+E:\Pavlik\Politech\KPZ\RobotChallenge\Robot.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Pavlik\Politech\KPZ\RobotChallenge\Robot.Common\obj\Debug\Robot.Common.dll
+E:\Pavlik\Politech\KPZ\RobotChallenge\Robot.Common\obj\Debug\Robot.Common.pdb
